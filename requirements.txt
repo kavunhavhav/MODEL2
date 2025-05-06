@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tensorflow
+keras
+python-binance
+tqdm
+ta
+openpyxl
+xlsxwriter
+pillow
